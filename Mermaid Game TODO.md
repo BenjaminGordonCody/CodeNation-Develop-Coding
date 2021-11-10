@@ -1,0 +1,33 @@
+# Mermaid Game TODO
+
+- [x] define stats
+  - [x] health
+  - [x] nourished
+  - [x] happy
+  - [ ] educated
+- [ ] define endings
+  - [ ] healthy + educated
+  - [ ] healthy + physical
+  - [ ] unhealthy + educated
+  - [ ] unhealthy + physical
+- [ ] plot out route through game
+  - [ ] baby
+    - [ ] starts neutral
+  - [ ] child
+    - [ ] same for everyone, but colour changes begin
+    - [ ] can start playing + reading
+  - [ ] adolescent
+    - [ ] jock or dirtbag versions
+  - [ ] adult
+    - [ ] four versions
+    - [ ] starts speaking in animation
+- [ ] animations
+  - [ ] baby
+  - [ ] child
+  - [ ] adolescent and adolescent versions
+  - [ ] healthy adult and variations
+  - [ ] unhealthy adult and variations
+- [ ] styling changes
+  - [ ] colour overlay changes depending on health
+  - [ ] transparency of different emojis changes depen
+
